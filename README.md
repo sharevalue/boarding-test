@@ -3,9 +3,8 @@
 
 ---
 ## :bulb: 과제
-### - 다음 링크의 화면의 Contact US 영역을 코딩 해주세요. 
-### - 👉 (보내기 버튼 아래의 것들은 안하셔도 됩니다)
-### https://www.sharevaluecorp.com/contact.html
+### 👉 다음 링크의 화면의 Contact US 영역을 코딩 해주세요. 
+### https://www.sharevaluecorp.com/contact.html 👉 (보내기 버튼 아래의 것들은 안하셔도 됩니다)
 
 ___
 ## :bell: 요구사항
