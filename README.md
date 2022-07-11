@@ -18,7 +18,7 @@ ___
 
 #### :five: countires.json이 첨부되어있습니다. https://github.com/sharevalue/boarding-test/blob/main/countries.json 이 데이터를 이용하여 제목 태그 아래에 국가를 선택하는 select 태그를 만들고, countryNameKo를 기준으로 대한민국, 미국, 일본, 중국 그리고 나머지는 가나다 순으로 정렬해서 선택 할 수 있게 해주세요. 
 
-#### :six: 보내기 버튼 클릭시, 입력된 내용을 알럿 띄워주세요.
+#### :six: 보내기 버튼 클릭시, 모달창을 만들어서 입력된 내용을 전시해주세요.
 
 #### :seven: 전화번호는 숫자만 들어 갈 수 있도록 해주세요.
 
