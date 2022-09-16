@@ -3,8 +3,10 @@
 
 ---
 ## :bulb: 과제
-#### 다음 링크의 화면의 Contact US 영역을 코딩 해주세요. (보내기 버튼 아래에 있는 화면들은 안하셔도 됩니다) 
+#### 다음 링크의 화면의 문의하기 영역을 코딩 해주세요. ("문의 신청하기" 버튼 아래에 있는 화면들은 안하셔도 됩니다) 
 ### 👉 https://www.sharevaluecorp.com/support 
+
+![boarding-test](https://user-images.githubusercontent.com/30038115/190544180-9e7b28ec-0787-4fdc-b3e2-0df2e48e1478.jpg)
 
 ___
 ## :bell: 요구사항
